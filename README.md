@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @psinomorph
-- 👀 I’m interested in programming c++
-- 🌱 I’m currently learning OpenGl
+- 👋 Hi, I’m @serkosal
+- 👀 I’m interested in programming python, javascript, c++
 
 <!---
 psinomorph/psinomorph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
