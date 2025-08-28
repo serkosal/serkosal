@@ -3,15 +3,14 @@
 
 I love IT in general in wide variaty of aspects from general comp science to electronics, physics.
 
-My site (currently unavailable): http://python.ceo/
-
-My projects:
-
 # My projects
 
 ## WEB development:
-- [Adaptive design]()
-- [E-commerce react + FastAPI]()
+- [React task manager](https://github.com/serkosal/react-task-manager)
 
 ## Computer graphics
-- [OpenGL Tutorials]()
+- [OpenGL Tutorials](https://github.com/serkosal/learn-opengl)
+- [raymarching](https://github.com/serkosal/raymarching)
+
+## System utilities
+- [INTeractive File Listing](https://github.com/serkosal/intfl)
