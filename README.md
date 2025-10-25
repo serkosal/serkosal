@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @serkosal
-- 👀 I’m interested in programming c++, python and javaScript.
+Mainly web-dev in TS and Python. But also system programming in c++. FOSS enthusiast. 
 
-I love IT in general in wide variaty of aspects from general comp science to electronics, physics.
+I love IT in general in wide variaty of aspects from general comp science to electronics, physics, math. But also I'm intersted in everything else: politics, biology, psychology.
+I studied Physics in university. Self learned everything else.
+I kinda know quantum mechanics :D.
+I kinda don't get quantum mechanics.
 
 # My projects
 
