@@ -1,18 +1,17 @@
-Mainly web-dev in TS and Python. But also system programming in c++. FOSS enthusiast. 
+Hello my name is Sergey Kosykh a.k.a. Serkosal.<br>
+I’m programming in Python, C++, and JS.<br>
+FOSS enthusiast. I've been a GNU/Linux user since 2018.<br>
 
-I love IT in general in wide variaty of aspects from general comp science to electronics, physics, math. But also I'm intersted in everything else: politics, biology, psychology.
-I studied Physics in university. Self learned everything else.
-I kinda know quantum mechanics :D.
-I kinda don't get quantum mechanics.
+I love IT in general in the wide variety of aspects from theoretical comp. science to the actual hardware.
 
 # My projects
 
 ## WEB development:
-- [React task manager](https://github.com/serkosal/react-task-manager)
-
-## Computer graphics
-- [OpenGL Tutorials](https://github.com/serkosal/learn-opengl)
-- [raymarching](https://github.com/serkosal/raymarching)
+- [My personal web blog](https://www.serkosal.org/) - **based** on `Django's` framework personal web blog with my study notes and thoughts on different topics. 
 
 ## System utilities
-- [INTeractive File Listing](https://github.com/serkosal/intfl)
+- [INTeractive File Listing](https://github.com/serkosal/intfl) - It's like the `GNU tree` but is interactive.
+
+## Computer graphics
+- [C++ OpenGL boilerplate](https://github.com/serkosal/skgl) - a project with build-in UI, with some `OpenGL` things were automated and with usefull examples. 
+- [raymarching](https://github.com/serkosal/raymarching) - raymarching renderer based on `SDF` (signed distance functions).
