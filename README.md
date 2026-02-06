@@ -15,3 +15,10 @@ I love IT in general in the wide variety of aspects from theoretical comp. scien
 ## Computer graphics
 - [C++ OpenGL boilerplate](https://github.com/serkosal/skgl) - a project with build-in UI, with some `OpenGL` things were automated and with usefull examples. 
 - [raymarching](https://github.com/serkosal/raymarching) - raymarching renderer based on `SDF` (signed distance functions).
+
+# my config files
+I'm not a big config nerd, so there are boring 
+
+- [helix editor](https://github.com/serkosal/helix-config)
+- [fish](https://github.com/serkosal/fish-config)
+- [zellij](https://github.com/serkosal/zellij-config) 
