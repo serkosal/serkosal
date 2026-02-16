@@ -3,6 +3,7 @@ I’m programming in Python, C++, and JS.<br>
 FOSS enthusiast. I've been the GNU/Linux user since 2018.<br>
 
 I love IT in general in the wide variety of aspects from theoretical comp. science to the actual hardware.
+Sporadically contribute in Open Source projects.
 
 # My projects
 
