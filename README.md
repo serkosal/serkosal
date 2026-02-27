@@ -12,7 +12,7 @@ Sporadically contribute in Open Source projects.
 
 ## System utilities
 - [INTeractive File Listing](https://github.com/serkosal/intfl) - It's like the `GNU tree` but is interactive.
-- [pyntercept][https://github.com/serkosal/pyntercept] - python library & utility to intercepting and processing i/o of console application using PTYs.
+- [pyntercept](https://github.com/serkosal/pyntercept) - python library & utility to intercepting and processing i/o of console application using PTYs.
 
 ## Computer graphics
 - [C++ OpenGL boilerplate](https://github.com/serkosal/skgl) - a project with build-in UI, with some `OpenGL` things automated and with usefull examples. 
