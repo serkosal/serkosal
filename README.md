@@ -4,6 +4,7 @@ FOSS enthusiast. I've been the GNU/Linux user since 2018.<br>
 
 I love IT in general in the wide variety of aspects from theoretical comp. science to the actual hardware.
 Sporadically contribute in Open Source projects.
+I'm not using any AI agents in my projects, maximum I could use LLMs as advanced search engines.
 
 # My projects
 
