@@ -9,7 +9,8 @@ I'm not using any AI agents in my projects, maximum I could use LLMs as advanced
 # My projects
 
 ## WEB development:
-- [My personal web blog](https://www.serkosal.org/) - **based** on `Django's` framework personal web blog with my study notes and thoughts on different topics. 
+- [My personal web blog](https://www.serkosal.org/) - **based** on `Django's` framework personal web blog with my study notes and thoughts on different topics.
+- [react task manager](https://serkosal.github.io/react-task-manager/) - A little bit unfinished, but functional task manager application
 
 ## System utilities
 - [INTeractive File Listing](https://github.com/serkosal/intfl) - It's like the `GNU tree` but is interactive.
