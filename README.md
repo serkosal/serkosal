@@ -6,6 +6,12 @@ I love IT in general in the wide variety of aspects from theoretical comp. scien
 Sporadically contribute in Open Source projects.
 I'm not using any AI agents in my projects, maximum I could use LLMs as advanced search engines.
 
+# Like what I'm doing?
+Consider to financially support me, via:
+
+bitcoin   
+![bitcoin-image](./bitcoin.png)
+
 # My projects
 
 ## WEB development:
