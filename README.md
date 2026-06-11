@@ -15,7 +15,7 @@ bitcoin
 # My projects
 
 ## WEB development:
-- [My personal web blog](https://www.serkosal.org/) - **based** on `Django's` framework personal web blog with my study notes and thoughts on different topics.
+- [My personal web blog](https://www.serkosal.org/) (temporarily unavailable due lack of money) - **based** on `Django's` framework personal web blog with my study notes and thoughts on different topics.
 - [react task manager](https://serkosal.github.io/react-task-manager/) - A little bit unfinished, but functional task manager application
 
 ## System utilities
